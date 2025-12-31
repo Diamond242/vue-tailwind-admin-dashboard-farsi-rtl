@@ -1,0 +1,61 @@
+{
+  "sidebar": {
+    "groups": {
+      "menu": "منو",
+      "others": "سایر"
+    },
+    "items": {
+      "dashboard": "داشبورد",
+      "ecommerce": "ای‌کامرس",
+      "calendar": "تقویم",
+      "userProfile": "پروفایل کاربر",
+      "forms": "فرم‌ها",
+      "formElements": "المان‌های فرم",
+      "tables": "جداول",
+      "basicTables": "جدول‌های پایه",
+      "pages": "صفحات",
+      "blank": "صفحه خالی",
+      "error404": "صفحه ۴۰۴",
+      "charts": "نمودارها",
+      "lineChart": "نمودار خطی",
+      "barChart": "نمودار ستونی",
+      "uiElements": "المان‌های رابط کاربری",
+      "alerts": "هشدارها",
+      "avatars": "آواتارها",
+      "badge": "نشان",
+      "buttons": "دکمه‌ها",
+      "images": "تصاویر",
+      "videos": "ویدیوها",
+      "authentication": "احراز هویت",
+      "signin": "ورود",
+      "signup": "ثبت‌نام"
+    },
+    "badges": {
+      "new": "جدید",
+      "pro": "پرو"
+    }
+  },
+  "sidebarWidget": {
+    "title": "داشبورد Tailwind CSS شماره ۱",
+    "description": "قالب مدیریتی Tailwind CSS با بیش از ۴۰۰ کامپوننت و صفحه.",
+    "cta": "خرید پلن"
+  },
+  "header": {
+    "search": {
+      "placeholder": "جستجو یا اجرای دستور..."
+    },
+    "notification": {
+      "title": "اعلان‌ها",
+      "viewAll": "مشاهده همه اعلان‌ها",
+      "actionRequestChange": "درخواست تغییر",
+      "typeProject": "پروژه",
+      "timeMinutesAgo": "{minutes} دقیقه پیش"
+    },
+    "userMenu": {
+      "editProfile": "ویرایش پروفایل",
+      "accountSettings": "تنظیمات حساب",
+      "support": "پشتیبانی",
+      "signOut": "خروج"
+    }
+  }
+}

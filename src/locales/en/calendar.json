@@ -1,0 +1,55 @@
+{
+  "pageTitle": "Calendar",
+  "toolbar": {
+    "addEvent": "Add Event"
+  },
+  "modal": {
+    "titleAdd": "Add Event",
+    "titleEdit": "Edit Event",
+    "subtitle": "Plan your next big moment: schedule or edit an event to stay on track",
+    "labels": {
+      "eventTitle": "Event Title",
+      "eventColor": "Event Color",
+      "startDate": "Enter Start Date",
+      "endDate": "Enter End Date"
+    },
+    "buttons": {
+      "close": "Close",
+      "add": "Add Event",
+      "update": "Update Changes",
+      "delete": "Delete Event"
+    }
+  },
+  "colors": {
+    "danger": "Danger",
+    "success": "Success",
+    "primary": "Primary",
+    "warning": "Warning"
+  },
+  "events": {
+    "conference": "Event Conf.",
+    "meeting": "Meeting",
+    "workshop": "Workshop"
+  },
+  "jalali": {
+    "monthLabel": "{month} {year}",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "weekdaysShort": ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
+    "weekdaysLong": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "months": [
+      "Farvardin",
+      "Ordibehesht",
+      "Khordad",
+      "Tir",
+      "Mordad",
+      "Shahrivar",
+      "Mehr",
+      "Aban",
+      "Azar",
+      "Dey",
+      "Bahman",
+      "Esfand"
+    ]
+  }
+}

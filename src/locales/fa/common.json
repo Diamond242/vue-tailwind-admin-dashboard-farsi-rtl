@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "TailAdmin"
+  },
+  "language": {
+    "en": "انگلیسی",
+    "fa": "فارسی",
+    "enShort": "EN",
+    "faShort": "فا"
+  },
+  "actions": {
+    "changeLanguage": "تغییر زبان"
+  },
+  "breadcrumb": {
+    "home": "خانه"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "documentTitle": "Vue.js {title} | TailAdmin - Vue.js Tailwind CSS Dashboard Template",
+  "titles": {
+    "ecommerce": "eCommerce Dashboard",
+    "calendar": "Calendar",
+    "profile": "Profile",
+    "formElements": "Form Elements",
+    "basicTables": "Basic Tables",
+    "lineChart": "Line Chart",
+    "barChart": "Bar Chart",
+    "alerts": "Alerts",
+    "avatars": "Avatars",
+    "badge": "Badge",
+    "buttons": "Buttons",
+    "images": "Images",
+    "videos": "Videos",
+    "blank": "Blank",
+    "error404": "404 Error",
+    "signin": "Signin",
+    "signup": "Signup"
+  }
+}

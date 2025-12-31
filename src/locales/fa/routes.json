@@ -1,0 +1,22 @@
+{
+  "documentTitle": "Vue.js {title} | TailAdmin - قالب داشبورد Tailwind CSS برای Vue.js",
+  "titles": {
+    "ecommerce": "داشبورد ای‌کامرس",
+    "calendar": "تقویم",
+    "profile": "پروفایل",
+    "formElements": "المان‌های فرم",
+    "basicTables": "جدول‌های پایه",
+    "lineChart": "نمودار خطی",
+    "barChart": "نمودار ستونی",
+    "alerts": "هشدارها",
+    "avatars": "آواتارها",
+    "badge": "نشان",
+    "buttons": "دکمه‌ها",
+    "images": "تصاویر",
+    "videos": "ویدیوها",
+    "blank": "خالی",
+    "error404": "خطای ۴۰۴",
+    "signin": "ورود",
+    "signup": "ثبت‌نام"
+  }
+}

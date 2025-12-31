@@ -1,0 +1,61 @@
+{
+  "sidebar": {
+    "groups": {
+      "menu": "Menu",
+      "others": "Others"
+    },
+    "items": {
+      "dashboard": "Dashboard",
+      "ecommerce": "Ecommerce",
+      "calendar": "Calendar",
+      "userProfile": "User Profile",
+      "forms": "Forms",
+      "formElements": "Form Elements",
+      "tables": "Tables",
+      "basicTables": "Basic Tables",
+      "pages": "Pages",
+      "blank": "Blank Page",
+      "error404": "404 Page",
+      "charts": "Charts",
+      "lineChart": "Line Chart",
+      "barChart": "Bar Chart",
+      "uiElements": "UI Elements",
+      "alerts": "Alerts",
+      "avatars": "Avatars",
+      "badge": "Badge",
+      "buttons": "Buttons",
+      "images": "Images",
+      "videos": "Videos",
+      "authentication": "Authentication",
+      "signin": "Signin",
+      "signup": "Signup"
+    },
+    "badges": {
+      "new": "new",
+      "pro": "pro"
+    }
+  },
+  "sidebarWidget": {
+    "title": "#1 Tailwind CSS Dashboard",
+    "description": "Leading Tailwind CSS Admin Template with 400+ UI Component and Pages.",
+    "cta": "Purchase Plan"
+  },
+  "header": {
+    "search": {
+      "placeholder": "Search or type command..."
+    },
+    "notification": {
+      "title": "Notification",
+      "viewAll": "View All Notification",
+      "actionRequestChange": "requests permission to change",
+      "typeProject": "Project",
+      "timeMinutesAgo": "{minutes} min ago"
+    },
+    "userMenu": {
+      "editProfile": "Edit profile",
+      "accountSettings": "Account settings",
+      "support": "Support",
+      "signOut": "Sign out"
+    }
+  }
+}

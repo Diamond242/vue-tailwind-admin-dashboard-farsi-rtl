@@ -13,27 +13,23 @@
 | --- | --- |
 | - Runtime language switch with persistence<br>- Full RTL layout (sidebar, header, menus, forms, tables, notifications, charts)<br>- Jalali calendar + localized date/time pickers<br>- Persian typography (Vazirmatn) with easy font swap<br>- Locale-aware numbers and date/time formatting (Intl)<br>- Fully responsive across desktop, tablet, and mobile | - تغییر زبان در لحظه با ذخیره شدن انتخاب<br>- RTL کامل برای همه بخش ها (منو، هدر، فرم، جدول، اعلان، نمودار)<br>- تقویم جلالی و ورودی تاریخ/ساعت بومی<br>- تایپوگرافی فارسی (Vazirmatn) با امکان تغییر ساده فونت<br>- اعداد و تاریخ/زمان متناسب با زبان (Intl)<br>- ریسپانسیو کامل در همه اندازه ها |
 
-## Tech Stack | تکنولوژی ها
-| English | فارسی |
-| --- | --- |
-| Vue 3, Vite, TypeScript, Tailwind CSS v4, vue-router, vue-i18n, FullCalendar, flatpickr (Jalali), ApexCharts | Vue 3، Vite، TypeScript، Tailwind CSS نسخه 4، vue-router، vue-i18n، FullCalendar، flatpickr جلالی، ApexCharts |
+## Tech Stack
+- Vue 3, Vite, TypeScript, Tailwind CSS v4
+- vue-router, vue-i18n
+- FullCalendar, flatpickr (Jalali), ApexCharts
 
-## Demo | دمو
-| English | فارسی |
-| --- | --- |
-| English demo only: https://demo.tailadmin.com | دموی فعلا فقط انگلیسی: https://demo.tailadmin.com |
+## Demo
+- English demo only: https://demo.tailadmin.com
 
-## Screenshots | اسکرین شات ها
-| English | فارسی |
-| --- | --- |
-| Desktop Dashboard (FA) | داشبورد دسکتاپ (فارسی) |
-| ![Desktop Dashboard FA](./docs/screenshots/dashboard-fa-desktop.png) | ![داشبورد دسکتاپ فارسی](./docs/screenshots/dashboard-fa-desktop.png) |
-| Tablet Dashboard (FA) | داشبورد تبلت (فارسی) |
-| ![Tablet Dashboard FA](./docs/screenshots/dashboard-fa-tablet.png) | ![داشبورد تبلت فارسی](./docs/screenshots/dashboard-fa-tablet.png) |
-| Mobile Menu (FA) | منوی موبایل (فارسی) |
-| ![Mobile Menu FA](./docs/screenshots/menu-fa-mobile.png) | ![منوی موبایل فارسی](./docs/screenshots/menu-fa-mobile.png) |
-| Calendar (FA) | تقویم (فارسی) |
-| ![Calendar FA](./docs/screenshots/calendar-fa-desktop.png) | ![تقویم فارسی](./docs/screenshots/calendar-fa-desktop.png) |
+## Screenshots
+- Desktop Dashboard (FA)
+![Desktop Dashboard FA](./docs/screenshots/dashboard-fa-desktop.png)
+- Tablet Dashboard (FA)
+![Tablet Dashboard FA](./docs/screenshots/dashboard-fa-tablet.png)
+- Mobile Menu (FA)
+![Mobile Menu FA](./docs/screenshots/menu-fa-mobile.png)
+- Calendar (FA)
+![Calendar FA](./docs/screenshots/calendar-fa-desktop.png)
 
 ## Getting Started | راه اندازی
 | English | فارسی |
